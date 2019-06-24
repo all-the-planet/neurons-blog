@@ -1,5 +1,5 @@
-<div style="text-align: right">> _We are all now connected by the Internet, like neurons in a giant **brain**._
-> - _Stephen Hawking_</div>
+ _We are all now connected by the Internet, like neurons in a giant **brain**._
+ - _Stephen Hawking_
 
 # Neurons' blog
 
