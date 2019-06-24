@@ -5,5 +5,5 @@
 The place to note, blog, party, commit, skills and jobs
 
 ToDo: 
-- Add brief description of the neurons' projects => blockchain ( commits ( skills / tests ) ) innovation protocol
+- Add brief description of the neurons' projects => blockchain ( commits ( skills / tests ) ) - innovation protocol
 
