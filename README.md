@@ -6,6 +6,6 @@ The place to note, blog, party, commit, skills and jobs
 
 ToDo: 
 - Add brief description of the neurons' realtime blockchain protocol: 
-> projects => blockchain ( commits ( skills / tests ) ) - innovation & patenting protocol
+> projects => blockchain ( commits ( skills / tests ) ) = innovation & patenting protocol
 - setup Neurons' blog on Github pages
 
