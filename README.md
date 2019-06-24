@@ -1,5 +1,5 @@
-> We are all now connected by the Internet, like neurons in a giant brain.
-> - Stephen Hawking
+> _We are all now connected by the Internet, like neurons in a giant **brain**._
+> - _Stephen Hawking_
 
 # Neurons' blog
 
